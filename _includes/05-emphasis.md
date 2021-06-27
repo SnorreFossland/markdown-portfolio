@@ -9,10 +9,11 @@ _You **can** combine them_
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-> **Prøv det selv:**
-> 
-> Skriv din første "hello, world"-melding til konsollen i Spyder fra et skript du kaller "hello world.py".
-
+        > **Prøv det selv:**
+        > 
+        > Skriv din første "hello, world"-melding til konsollen i Spyder fra et skript du kaller "hello world.py".
+       
+---
         <html>
           <body>
           </body>
