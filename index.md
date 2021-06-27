@@ -1,5 +1,5 @@
 # Hello World
-## I denne deløkta skal du lære å lage og kjøre et skript som inneholder Python-kode i Spyder. Endring.
+#### I denne deløkta skal du lære å lage og kjøre et skript som inneholder Python-kode i Spyder. Endring.
 ---
 
 {% include 01-name.md %}
