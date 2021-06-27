@@ -7,6 +7,7 @@ __This will also be bold__
 _You **can** combine them_
 
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 > **Prøv det selv:**
 > 
