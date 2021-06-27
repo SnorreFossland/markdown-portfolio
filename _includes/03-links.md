@@ -9,11 +9,11 @@
 # 
 <iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
-
+<div>
 <video width="320" height="240" controls>
   <source src="https://player.vimeo.com/video/544509628" type="video/mp4">
 </video>
-
+</div>
 
  <div id="video-container">
   <video id="player" preload controls poster="images/poster.jpg">
