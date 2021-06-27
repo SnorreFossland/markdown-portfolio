@@ -3,4 +3,4 @@ I denne videoen tar vi en liten kikk på hvordan du kan komme i gang med å lage
 
 Jeg anbefaler deg å åpne Spyder og kode sammen med meg. Lykke til!
 
-![spyder] (https://player.vimeo.com/video/544509628)
+
